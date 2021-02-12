@@ -1,5 +1,5 @@
 # Haiku
-A private, secure blockchain network
+A private, secure blockchain network implemented in less than 4.5k LOC
 
 ### Features:
 
