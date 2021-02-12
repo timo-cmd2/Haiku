@@ -1,2 +1,2 @@
 # Haiku
-A secure blockchain network
+A private, secure blockchain network
