@@ -10,3 +10,6 @@ install:
   
 notifications:
   email: false
+  
+script:
+  - python --version
